@@ -37,8 +37,6 @@ The dashboards are developed using two Business Intelligence tools, Tableau and 
 ```text
 Dashboard-Academic/
 │
-├── data/
-│   └── (Sample datasets, if applicable)
 │
 ├── notebook/
 │   ├── 01_data_inspection.ipynb
@@ -56,10 +54,6 @@ Dashboard-Academic/
 │   ├── academic_performance/
 │   └── attendance_analytics/
 │
-├── assets/
-│   ├── student_overview.png
-│   ├── academic_performance.png
-│   └── attendance_analytics.png
 │
 ├── README.md
 └── requirements.txt
