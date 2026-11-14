@@ -4,7 +4,7 @@ An interactive university academic analytics dashboard built using **Tableau** t
 
 ## Dashboard Preview
 
-![Academic Performance Dashboard](dashboard_preview.png)
+![Academic Performance Dashboard](Dashboard_Preview.png)
 
 **View Interactive Dashboard:**  
 [Academic Performance – Tableau Public](https://public.tableau.com/views/AcademikPerformance/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
