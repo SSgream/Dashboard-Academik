@@ -4,7 +4,7 @@ An interactive university attendance analytics dashboard developed using **Table
 
 ## Dashboard Preview
 
-![Attendance Analytics Dashboard](dashboard_preview.png)
+![Attendance Analytics Dashboard](Dashboard_Preview.png)
 
 **View Interactive Dashboard:**  
 [Attendance Analytics – Tableau Public](https://public.tableau.com/views/attendance_analytics/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
